@@ -1,0 +1,11 @@
+name: CraftMetrics
+main: net.pentazy.craftmetrics.Main
+version: 1.0
+api-version: 1.13
+author: Pentazy Labs
+description: CraftMetrics
+commands:
+  metrics:
+    description: Shows the metrics of the server
+    usage: /<command>
+    aliases: [cm]
